@@ -1,0 +1,8 @@
+<?php
+class Magic
+{
+    public function __construct()
+    {
+        echo 'Its works' . PHP_EOL;
+    }
+}
